@@ -1,149 +1,97 @@
 {
   "metadata": {
     "version": "Agent_V2_Optimized",
-    "total": 55,
-    "pass_count": 55,
+    "total": 65,
+    "pass_count": 65,
     "fail_count": 0,
     "pass_rate": 100.0,
-    "timestamp": "2026-04-21 10:13:13",
-    "total_runtime_seconds": 2.38
+    "timestamp": "2026-04-21 14:41:49",
+    "total_runtime_seconds": 6.61
   },
   "metrics": {
-    "avg_score": 4.09,
-    "avg_faithfulness": 0.806,
-    "avg_relevancy": 0.756,
-    "hit_rate": 0.873,
-    "mrr": 0.788,
-    "agreement_rate": 0.982,
-    "avg_latency_seconds": 0.326
+    "avg_score": 4.039,
+    "avg_faithfulness": 0.831,
+    "avg_relevancy": 0.808,
+    "hit_rate": 0.646,
+    "mrr": 0.537,
+    "agreement_rate": 1.0,
+    "avg_latency_seconds": 0.7165
   },
   "cost": {
-    "total_tokens": 7481,
-    "total_cost_usd": 0.0374,
-    "avg_cost_per_eval_usd": 0.00068
+    "total_tokens": 9392,
+    "total_cost_usd": 0.0035,
+    "avg_cost_per_eval_usd": 5.4e-05
   },
-  "difficulty_breakdown": {
-    "easy": {
-      "total": 25,
-      "pass_rate": 100.0,
-      "avg_score": 4.09
-    },
-    "medium": {
-      "total": 5,
-      "pass_rate": 100.0,
-      "avg_score": 4.0
-    },
-    "hard": {
-      "total": 10,
-      "pass_rate": 100.0,
-      "avg_score": 4.2
-    },
-    "adversarial": {
-      "total": 10,
-      "pass_rate": 100.0,
-      "avg_score": 4.11
-    },
-    "edge": {
-      "total": 5,
-      "pass_rate": 100.0,
-      "avg_score": 3.95
-    }
-  },
+  "difficulty_breakdown": {},
   "regression": {
     "avg_score": {
-      "v1": 3.874,
-      "v2": 4.09,
-      "delta": 0.216,
+      "v1": 3.908,
+      "v2": 4.039,
+      "delta": 0.131,
       "improved": true
     },
     "hit_rate": {
-      "v1": 0.873,
-      "v2": 0.873,
+      "v1": 0.646,
+      "v2": 0.646,
       "delta": 0.0,
       "improved": false
     },
     "mrr": {
-      "v1": 0.745,
-      "v2": 0.788,
-      "delta": 0.043,
-      "improved": true
+      "v1": 0.537,
+      "v2": 0.537,
+      "delta": 0.0,
+      "improved": false
     },
     "agreement_rate": {
-      "v1": 0.977,
-      "v2": 0.982,
-      "delta": 0.005,
-      "improved": true
+      "v1": 1.0,
+      "v2": 1.0,
+      "delta": 0.0,
+      "improved": false
     },
     "avg_faithfulness": {
-      "v1": 0.838,
-      "v2": 0.806,
-      "delta": -0.032,
+      "v1": 0.854,
+      "v2": 0.831,
+      "delta": -0.023,
       "improved": false
     },
     "avg_relevancy": {
-      "v1": 0.756,
-      "v2": 0.756,
+      "v1": 0.808,
+      "v2": 0.808,
       "delta": 0.0,
       "improved": false
     }
   },
   "release_gate": {
     "decision": "APPROVE",
-    "score_delta": 0.216,
-    "cost_delta": -0.0162,
+    "score_delta": 0.131,
+    "cost_delta": 0.0,
     "quality_improved": true,
-    "cost_reduced": true
+    "cost_reduced": false
   },
   "v1_summary": {
     "metadata": {
       "version": "Agent_V1_Base",
-      "total": 55,
-      "pass_count": 51,
-      "fail_count": 4,
-      "pass_rate": 92.7,
-      "timestamp": "2026-04-21 10:13:11",
-      "total_runtime_seconds": 3.12
+      "total": 65,
+      "pass_count": 62,
+      "fail_count": 3,
+      "pass_rate": 95.4,
+      "timestamp": "2026-04-21 14:41:43",
+      "total_runtime_seconds": 20.09
     },
     "metrics": {
-      "avg_score": 3.874,
-      "avg_faithfulness": 0.838,
-      "avg_relevancy": 0.756,
-      "hit_rate": 0.873,
-      "mrr": 0.745,
-      "agreement_rate": 0.977,
-      "avg_latency_seconds": 0.4384
+      "avg_score": 3.908,
+      "avg_faithfulness": 0.854,
+      "avg_relevancy": 0.808,
+      "hit_rate": 0.646,
+      "mrr": 0.537,
+      "agreement_rate": 1.0,
+      "avg_latency_seconds": 0.9877
     },
     "cost": {
-      "total_tokens": 10719,
-      "total_cost_usd": 0.0536,
-      "avg_cost_per_eval_usd": 0.000974
+      "total_tokens": 9327,
+      "total_cost_usd": 0.0035,
+      "avg_cost_per_eval_usd": 5.4e-05
     },
-    "difficulty_breakdown": {
-      "easy": {
-        "total": 25,
-        "pass_rate": 100.0,
-        "avg_score": 4.09
-      },
-      "medium": {
-        "total": 5,
-        "pass_rate": 100.0,
-        "avg_score": 4.02
-      },
-      "hard": {
-        "total": 10,
-        "pass_rate": 100.0,
-        "avg_score": 4.17
-      },
-      "adversarial": {
-        "total": 10,
-        "pass_rate": 60.0,
-        "avg_score": 2.94
-      },
-      "edge": {
-        "total": 5,
-        "pass_rate": 100.0,
-        "avg_score": 3.9
-      }
-    }
+    "difficulty_breakdown": {}
   }
 }
