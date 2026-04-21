@@ -1,0 +1,45 @@
+Bảng giá dịch vụ và chính sách hoàn tiền
+
+Phần 1. Bảng giá dịch vụ 2024
+
+1.1. Gói Basic - 99.000đ/tháng
+- Dung lượng lưu trữ: 5GB
+- API calls: 100 lần/ngày
+- Rate limit: 100 requests/phút
+- Hỗ trợ: Email (giờ hành chính)
+- Phù hợp cho: Cá nhân, startup nhỏ
+
+1.2. Gói Pro - 299.000đ/tháng
+- Dung lượng lưu trữ: 50GB
+- API calls: 1.000 lần/ngày
+- Rate limit: 1.000 requests/phút
+- Hỗ trợ: 24/7 (Email + Chat)
+- Phù hợp cho: Doanh nghiệp vừa
+- Bao gồm: Webhook, Analytics nâng cao
+
+1.3. Gói Enterprise - Liên hệ báo giá
+- Dung lượng lưu trữ: Không giới hạn
+- API calls: Không giới hạn
+- Rate limit: Không giới hạn
+- SLA: 99.9% uptime
+- Hỗ trợ: Dedicated account manager
+- Phù hợp cho: Tập đoàn, doanh nghiệp lớn
+
+Phần 2. Chính sách hoàn tiền
+
+2.1. Điều kiện hoàn tiền
+Khách hàng có quyền yêu cầu hoàn tiền trong vòng 7 ngày kể từ ngày mua nếu:
+- Sản phẩm bị lỗi kỹ thuật từ phía nhà cung cấp
+- Dịch vụ không hoạt động đúng như mô tả
+
+2.2. Thời gian xử lý
+Thời gian xử lý hoàn tiền: 5-7 ngày làm việc kể từ khi yêu cầu được phê duyệt.
+
+2.3. Phí xử lý
+Phí xử lý hoàn tiền: 0 đồng (miễn phí hoàn toàn).
+
+2.4. Cách thức hoàn tiền
+Tiền hoàn về đúng phương thức thanh toán ban đầu (thẻ ngân hàng, ví điện tử).
+
+Phần 3. Nâng cấp gói dịch vụ
+Để nâng cấp: Đăng nhập → Cài đặt → Gói dịch vụ → Nâng cấp. Có hiệu lực ngay lập tức.

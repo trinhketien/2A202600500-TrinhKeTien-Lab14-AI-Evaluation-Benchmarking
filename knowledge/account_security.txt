@@ -1,0 +1,27 @@
+Hướng dẫn sử dụng tài khoản và bảo mật
+
+Phần 1. Quản lý mật khẩu
+
+1.1. Đổi mật khẩu
+Để đổi mật khẩu, thực hiện theo các bước sau:
+Bước 1: Đăng nhập vào tài khoản của bạn tại app.company.com
+Bước 2: Vào mục Cài đặt (Settings) ở góc trên bên phải
+Bước 3: Chọn tab Bảo mật (Security)
+Bước 4: Nhấn vào nút "Đổi mật khẩu" (Change Password)
+Bước 5: Nhập mật khẩu hiện tại vào ô "Mật khẩu cũ"
+Bước 6: Nhập mật khẩu mới (tối thiểu 8 ký tự, bao gồm chữ hoa, chữ thường và số)
+Bước 7: Xác nhận mật khẩu mới
+Bước 8: Nhấn "Lưu thay đổi"
+
+1.2. Yêu cầu mật khẩu
+- Độ dài tối thiểu: 8 ký tự
+- Phải bao gồm ít nhất 1 chữ hoa (A-Z)
+- Phải bao gồm ít nhất 1 chữ thường (a-z)
+- Phải bao gồm ít nhất 1 chữ số (0-9)
+- Không được trùng với 3 mật khẩu gần nhất
+
+1.3. Quên mật khẩu
+Nếu quên mật khẩu, vào trang đăng nhập và nhấn "Quên mật khẩu". Nhập email đã đăng ký, hệ thống sẽ gửi link reset về email trong vòng 5 phút.
+
+Phần 2. Bảo mật tài khoản
+Hệ thống sử dụng xác thực 2 yếu tố (2FA). Khuyến nghị bật 2FA để bảo vệ tài khoản. Dữ liệu được mã hóa AES-256. Tuân thủ GDPR và PDPA.

@@ -1,0 +1,42 @@
+Hướng dẫn tích hợp API và chính sách đối tác
+
+Phần 1. Tích hợp API
+
+1.1. Thông tin cơ bản
+- Endpoint chính: https://api.company.com/v2
+- Phương thức xác thực: Bearer Token
+- Format dữ liệu: JSON
+- Phiên bản hiện tại: v2.1
+
+1.2. Rate Limits
+- Gói Basic: 100 requests/phút
+- Gói Pro: 1.000 requests/phút
+- Gói Enterprise: Không giới hạn
+
+1.3. Webhook
+API hỗ trợ webhook cho real-time notifications. Cấu hình webhook tại: Settings → API → Webhooks.
+
+1.4. Xử lý lỗi
+- 429: Rate limit exceeded → Chờ và thử lại
+- 401: Unauthorized → Kiểm tra API key
+- 500: Server error → Liên hệ support
+
+Phần 2. Chính sách đối tác
+
+2.1. Các cấp độ đối tác
+- Cấp Silver: Doanh thu >= 50 triệu đồng/tháng → Chiết khấu 15%
+- Cấp Gold: Doanh thu >= 200 triệu đồng/tháng → Chiết khấu 22%
+- Cấp Platinum: Doanh thu >= 500 triệu đồng/tháng → Chiết khấu 30%
+
+2.2. Quyền lợi đối tác
+- Hỗ trợ kỹ thuật ưu tiên
+- Tài liệu và training độc quyền
+- Co-marketing opportunities
+- Truy cập beta features
+
+Phần 3. Chính sách nhân sự
+
+3.1. Thời gian làm việc: 8:00 - 17:00, Thứ 2 đến Thứ 6
+3.2. Ngày nghỉ phép: 12 ngày/năm cho nhân viên chính thức
+3.3. Nghỉ ốm có lương: 30 ngày/năm (cần giấy xác nhận bác sĩ)
+3.4. Làm thêm giờ: 150% lương cơ bản
